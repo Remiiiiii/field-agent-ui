@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c17759-1f96-4298-bf02-db2d05d19b53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../week-03/assessment/solar-farm-starter/jdbc-impl-steps.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/assessment/solar-farm-starter/jdbc-impl-steps.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-03/assessment/solar-farm-starter/sql/dml.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/assessment/solar-farm-starter/sql/dml.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-03/assessment/solar-farm-starter/src/main/java/learn/solarfarm/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/assessment/solar-farm-starter/src/main/java/learn/solarfarm/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-06/assessment/dwmh/sql/test-schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-06/assessment/dwmh/sql/test-schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/sql/field-agent-schema-prod.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/sql/field-agent-schema-prod.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/AgencyAgentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/AgencyAgentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/AgencyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/AgencyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/AgentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/AgentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/GlobalErrHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/GlobalErrHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/LocationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/controllers/LocationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/data/AgencyAgentJdbcTemplateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/data/AgencyJdbcTemplateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/data/AgentJdbcTemplateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/data/LocationJdbcTemplateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/data/SecurityClearanceJdbcTemplateRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/data/SecurityClearanceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/data/SecurityClearanceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/domain/AgencyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/domain/AgencyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/domain/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/domain/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/domain/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/domain/ResultType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/models/SecurityClearance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/java/learn/field_agent/models/SecurityClearance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/test/java/learn/field_agent/data/AgencyAgentJdbcTemplateRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/test/java/learn/field_agent/data/AgencyJdbcTemplateRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/test/java/learn/field_agent/data/AgentJdbcTemplateRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/test/java/learn/field_agent/data/KnownGoodState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/test/java/learn/field_agent/data/KnownGoodState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/test/java/learn/field_agent/data/LocationJdbcTemplateRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-07/assessment/field-agent/src/test/java/learn/field_agent/data/SecurityClearanceJdbcTemplateRepositoryTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Remiiiiii"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Remiiiiii/dev10-classwork-2024.git",
+    "accountId": "3b044350-2bed-4cc1-b2b1-5d75de719b50"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2qUTRkWhOmKVo5FCrfZCAWbTwuw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/victo/Development/dev10-classwork-2024/week-08/assessment/field-agent-ui"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c17759-1f96-4298-bf02-db2d05d19b53" name="Changes" comment="" />
+      <created>1734716147203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734716147203</updated>
+    </task>
+    <servers />
+  </component>
+</project>
